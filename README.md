@@ -13,7 +13,7 @@ For some reason, in this project, I just want to focus on the model structure an
 
 ## Demo
 
-![episode_002-931](https://github.com/user-attachments/assets/e01ef483-0124-4cf3-b36d-36c004c3f3b1)
+![episode_010-929](https://github.com/user-attachments/assets/07ddd52c-6c09-43a9-8940-a9306d731902)
 
 ![image](https://github.com/user-attachments/assets/77d77653-81c1-4968-9b7d-bb447c172585)
 
@@ -49,8 +49,8 @@ You can check the GIF files in my Google Drive folder. [Link](https://drive.goog
 
 ## Contact
 
-If you find something wrong or something interesting, please contact me. Feel free!
-And if you have some interesting problems, I will be very happy to know that. Perhaps we can co-work on it.
+If you find anything incorrect or interesting, please let me know. Feel free!
+And if you have some interesting problems, I would be very happy to hear about them. Perhaps we can co-work on it.
 
 ## In The Future
 I will upload some notes to explain how I design it.
