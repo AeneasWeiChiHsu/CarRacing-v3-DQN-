@@ -1,4 +1,7 @@
 # CarRacing-v3-DQN-Agent
+
+⚠️ This side project is meant for educational exploration only. No benchmark claims here.
+
 An avg 800 Deep Q-Network agent for OpenAI CarRacing-v3 (domain_randomize=True)
 
 In this side project, I only focus on the DQN approach instead of using PPO or more advanced techniques. I put some constraints on myself: NO PPO, just DQN. The original purpose is to test the possible performance of a DQN structure. It is interesting to know that there is something called RainbowDQN, but I don't have the source code. So I decided to build my own DQN agents. In general, I used the common skills: multiple-step, prioritization, frame-stacking, lite reward shaping (only punishing `do-nothing`), dynamically switching the memory, contrast enhancement, residual-CNN, multiple CNN branches (I leave a gate for merging), duelling (Advantage and Value), double network, ensemble Q-head, Dropout in Q-head, multiple type Q-head... Some of those modules were not used, but I planned to test them in the future. 
