@@ -37,8 +37,6 @@ For some reason, in this project, I just want to focus on the model structure an
 - ✅ Domain randomized training environment
 - ✅ Average reward ~ 800 in 100 episodes in `domain_randomize = True`
 
-![image](https://github.com/user-attachments/assets/ef0d82fb-408c-48f4-9e23-3a719c422be4)
-
 You can check it on the notebook. [Link](https://github.com/AeneasWeiChiHsu/CarRacing-v3-DQN-/blob/main/Avg%20800%20Car%20Racing%20v3%20Randomize%20%3D%20True%20DQN%20Agent.ipynb)
 
 You can check the GIF files in my Google Drive folder. [Link](https://drive.google.com/drive/folders/1nFQOGM08ElQ55bbsqEr1i_gm19PN0oaz?usp=sharing)
