@@ -62,3 +62,7 @@ I will upload some notes to explain how I design it.
 **`weichihsu1996@gmail.com`**
 
 Well, it is a nice journey into Reinforcement Learning. 
+
+---
+Now the 100-episode evaluation GIF folder is available:
+https://drive.google.com/drive/folders/1ta49u3dJXLZp8NUjI8j90IPIOtuB1nde?usp=sharing
