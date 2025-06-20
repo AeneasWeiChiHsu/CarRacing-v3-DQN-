@@ -59,7 +59,7 @@ And if you have some interesting problems, I would be very happy to hear about t
 I will upload some notes to explain how I design it.
 
 
-**`weichihsu1996@gmail.com`**
+**`weichihsu1996[at]gmail[dot]com`**
 
 Well, it is a nice journey into Reinforcement Learning. 
 
