@@ -44,6 +44,12 @@ You can check it on the notebook. [Link](https://github.com/AeneasWeiChiHsu/CarR
 
 You can check the GIF files in my Google Drive folder. [Link](https://drive.google.com/drive/folders/1nFQOGM08ElQ55bbsqEr1i_gm19PN0oaz?usp=sharing)
 
+You can also download the model on Kaggle. [DQN_Model](https://www.kaggle.com/models/weichihsu1996/dqn-model-on-car-racing-v3-random-environment)
+
+You can find a mini article describing this agent in the Repo. 
+
+[A Keras-Based DQN Agent Achieving 800+ Average Reward in CarRacing-v3 with Domain Randomization](https://github.com/AeneasWeiChiHsu/CarRacing-v3-DQN-/blob/main/A%20Keras-Based%20DQN%20Agent%20Achieving%20800%2B%20Average%20Reward%20in%20CarRacing-v3%20with%20Domain%20Randomization.pdf)
+
 ## Requirements
 
 - Python 3.10+
