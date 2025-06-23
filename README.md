@@ -16,12 +16,12 @@ For some reason, in this project, I just want to focus on the model structure an
 
 ## Demo
 
+**Demo GIF**
 ![episode_010-929](https://github.com/user-attachments/assets/07ddd52c-6c09-43a9-8940-a9306d731902)
 
-![image](https://github.com/user-attachments/assets/77d77653-81c1-4968-9b7d-bb447c172585)
 
-![image](https://github.com/user-attachments/assets/1b9c423e-7f24-4a0f-9fb2-a4bb6ba6316a)
-
+**Evaluation**
+![image](https://github.com/user-attachments/assets/24559bb2-ef33-4371-8bdd-ac647ea1f5ea)
 
 
 ## HOW to USE?
