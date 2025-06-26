@@ -52,7 +52,9 @@ You can also download the model on Kaggle. [DQN_Model](https://www.kaggle.com/mo
 
 You can find a mini article describing this agent in the Repo. 
 
-[A Keras-Based DQN Agent Achieving 800+ Average Reward in CarRacing-v3 with Domain Randomization](https://github.com/AeneasWeiChiHsu/CarRacing-v3-DQN-/blob/main/A%20Keras-Based%20DQN%20Agent%20Achieving%20800%2B%20Average%20Reward%20in%20CarRacing-v3%20with%20Domain%20Randomization.pdf)
+
+
+[A Keras-Based DQN Agent Achieving 800+ Average Reward in CarRacing-v3 with Domain Randomization](https://www.researchgate.net/publication/392966784_Backup-PreprintA_Keras-Based_DQN_Agent_Achieving_800_Average_Reward_in_CarRacing-v3_with_Domain_Randomization)
 
 ## Requirements
 
